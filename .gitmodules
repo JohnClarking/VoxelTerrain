@@ -1,0 +1,3 @@
+[submodule "VoxelTerrain/Plugins/UnrealSandboxTerrain"]
+	path = VoxelTerrain/Plugins/UnrealSandboxTerrain
+	url = https://github.com/moichia/UnrealSandboxTerrain.git
