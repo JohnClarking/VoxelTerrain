@@ -10,10 +10,8 @@ Demo video - https://www.youtube.com/watch?v=Z__-wuxeUsI
 Work in progress.
 
 # Usage
-1. git clone https://github.com/moichia/VoxelTerrain.git
+1. git clone --recursive https://github.com/moichia/VoxelTerrain.git
 2. cd VoxelTerrain
-3. git submodule init
-4. git submodule update
 5. open project with Unreal Engine 4
 
 # License
