@@ -9,14 +9,3 @@ SandboxVoxelGenerator ATerrainController::newTerrainGenerator(VoxelData &voxel_d
 	return ASandboxTerrainController::newTerrainGenerator(voxel_data);
 }
 
-void ATerrainController::OnLoadZoneProgress(int progress, int total) {
-	//UE_LOG(LogTemp, Warning, TEXT("%d / %d"), progress, total);
-
-	ZoneLoaderConter = progress;
-	ZoneLoaderTotal = total;
-}
-
-void ATerrainController::OnLoadZoneListFinished() {
-	ZoneLoaderConter = 0;
-	ZoneLoaderTotal = 0;
-}
