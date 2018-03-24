@@ -3,4 +3,4 @@
 	url = https://github.com/moichia/UnrealSandboxTerrain.git
 [submodule "VoxelTerrain/Plugins/UnrealSandboxToolkit"]
 	path = VoxelTerrain/Plugins/UnrealSandboxToolkit
-	url = https://moichia@bitbucket.org/moichia/unrealsandboxtoolkit.git
+	url = https://github.com/moichia/UnrealSandboxToolkit.git
