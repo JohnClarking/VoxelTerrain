@@ -17,6 +17,9 @@ Demo video - https://www.youtube.com/watch?v=Z__-wuxeUsI
 * Level of details (per chunk)
 * Foliage
 
+# Roadmap
+https://trello.com/b/R7E4YgtC/ue4-sandboxterrain-plugin
+
 # Usage
 1. git clone --recursive https://github.com/moichia/VoxelTerrain.git 
 2. cd VoxelTerrain
