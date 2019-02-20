@@ -63,7 +63,7 @@ void AUE4VoxelTerrainPlayerController::OnAltActionPressed() {
 			}
 
 			if (tool_mode == 4) {
-				terrain->fillTerrainRound(Hit.ImpactPoint, 60, 5, 3); //sand
+				terrain->fillTerrainRound(Hit.ImpactPoint, 60, 5, 1); //dirt
 			}
 		}
 	}
