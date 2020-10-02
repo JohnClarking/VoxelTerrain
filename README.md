@@ -34,4 +34,5 @@ MIT license
 
 # Support project
 BTC: 16k8NUyuMQFD9exynb4C6wCYLvd6gpHWnv
+
 ![BTC](https://raw.githubusercontent.com/moichia/VoxelTerrain/master/btc-qr-code.gif)
