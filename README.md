@@ -27,7 +27,7 @@ This plugin provides tools to generate, visualize and in-game change volume terr
 2. Download last stable project 
 3. Or clone repository properly ```git clone --recursive https://github.com/moichia/VoxelTerrain.git```
 4. Open directory VoxelTerrain
-5. Open project file with Unreal Engine 4.19
+5. Open project file with Unreal Engine 4.20
 
 # License
 MIT license
