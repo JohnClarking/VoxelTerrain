@@ -11,6 +11,9 @@ Saved
 .codelite
 .kdev4
 .clang
+.vs
+*.db
+*.ipch
 
 VoxelTerrain.VC.VC.opendb
 VoxelTerrain.VC.db
