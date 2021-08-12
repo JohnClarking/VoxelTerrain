@@ -11,6 +11,9 @@ This plugin provides tools to generate, visualize and in-game change volume terr
 
 ![Cave](https://github.com/moichia/VoxelTerrain/blob/master/cave.gif?raw=true)
 
+# Demo project
+Download packaged demo project: [VoxelTerrain-0.0.13.zip](https://bit.ly/3aTWMsD) 
+
 # Features
 * Runtime terrain modification
 * Procedural landscape/caves generation
